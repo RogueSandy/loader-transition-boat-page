@@ -1,8 +1,8 @@
-# React + Vite
+# Loader Transition Page
+A loading animation where it counts to 100 and curtains went up and reveal the page.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Made this page to test my skill. A single page aaplication to show the aniamtions that I can create, Also still learning.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Things I used
+- React.js
+- Framer Motion

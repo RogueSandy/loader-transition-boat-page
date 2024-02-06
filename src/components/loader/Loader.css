@@ -1,0 +1,27 @@
+.loader{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+.counter{
+    position: absolute;
+    bottom: 0;
+    right: 30px;
+    font-family: "Protest Strike", sans-serif;
+    color: #fff;
+    font-size: 15rem;
+    z-index: 2;
+}
+.curtains{
+    width: 100%;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: row;
+}
+.curtains-bar{
+    background: #1a1a1a;
+    height: 100vh;
+    width: 100%;
+}
